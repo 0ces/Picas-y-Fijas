@@ -7,14 +7,16 @@ function isNumberKey(value) {
   return value.match(regExp); 
 }
 
-function pad(num, size) {
-  num = num.toString();
-  while (num.length < size) num = "0" + num;
-  return num;
-}
-
 function generateNumber(){
-  return pad(Math.floor(Math.random()*1e4),4)
+  let numeros = ['', '', '', '']
+  for (let i = 0; i < numeros.length; i++){
+    let numero = Math.floor(Math.random()*10).toString()
+    while (numeros.includes(numero)){
+      numero = Math.floor(Math.random()*10).toString()
+    }
+    numeros[i] = numero
+  }
+  return numeros.join('')
 }
 
 function getDigest(text){
@@ -98,7 +100,7 @@ function App() {
               cantidadFijas === 4 ?
               <h1>¡Has ganado!</h1>
               :
-              <h1>Hay <b>{cantidadPicas}</b> picas y <b>{cantidadFijas}</b> fijas</h1>
+              <h1>Hay <b>{cantidadPicas}</b> pica{cantidadPicas > 1 ? 's':''} y <b>{cantidadFijas}</b> fija{cantidadFijas > 1 ? 's':''}</h1>
             ) : (
               <h1>No hay picas ni fijas</h1>
             )

@@ -8,10 +8,6 @@ Para lograrlo cada jugador propone una clave y da pistas al contrario de acuerdo
 
 - Por cada dígito que se encuentra en la clave pero está en un lugar incorrecto se obtiene una PICA.
 
- 
-
-Implementar el juego PICAS Y FIJAS haciendo que la computadora simule ser uno de los dos jugadores generando la clave aleatoriamente e intentando descubrir una clave ingresada por el jugador humano.
-
 
 ## Ejemplo de jugadas
 

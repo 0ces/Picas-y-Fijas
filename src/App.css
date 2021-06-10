@@ -69,7 +69,7 @@ body {
 }
 
 .form-control, .form-control:focus{
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.15);
   border: 0px;
   font-size: 6rem;
   max-width: 6rem;

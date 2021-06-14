@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PicasYFijas-React/static/css/main.c84d1255.chunk.css",
-    "main.js": "/PicasYFijas-React/static/js/main.aaf78ecb.chunk.js",
-    "main.js.map": "/PicasYFijas-React/static/js/main.aaf78ecb.chunk.js.map",
+    "main.css": "/PicasYFijas-React/static/css/main.25b3de62.chunk.css",
+    "main.js": "/PicasYFijas-React/static/js/main.4818b6a2.chunk.js",
+    "main.js.map": "/PicasYFijas-React/static/js/main.4818b6a2.chunk.js.map",
     "runtime-main.js": "/PicasYFijas-React/static/js/runtime-main.83d1e50e.js",
     "runtime-main.js.map": "/PicasYFijas-React/static/js/runtime-main.83d1e50e.js.map",
     "static/js/2.2d8cee93.chunk.js": "/PicasYFijas-React/static/js/2.2d8cee93.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.b13d5a6f.chunk.js": "/PicasYFijas-React/static/js/3.b13d5a6f.chunk.js",
     "static/js/3.b13d5a6f.chunk.js.map": "/PicasYFijas-React/static/js/3.b13d5a6f.chunk.js.map",
     "index.html": "/PicasYFijas-React/index.html",
-    "static/css/main.c84d1255.chunk.css.map": "/PicasYFijas-React/static/css/main.c84d1255.chunk.css.map",
+    "static/css/main.25b3de62.chunk.css.map": "/PicasYFijas-React/static/css/main.25b3de62.chunk.css.map",
     "static/js/2.2d8cee93.chunk.js.LICENSE.txt": "/PicasYFijas-React/static/js/2.2d8cee93.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83d1e50e.js",
     "static/js/2.2d8cee93.chunk.js",
-    "static/css/main.c84d1255.chunk.css",
-    "static/js/main.aaf78ecb.chunk.js"
+    "static/css/main.25b3de62.chunk.css",
+    "static/js/main.4818b6a2.chunk.js"
   ]
 }

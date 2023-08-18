@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Picas-y-Fijas/static/css/main.25b3de62.chunk.css",
-    "main.js": "/Picas-y-Fijas/static/js/main.4818b6a2.chunk.js",
-    "main.js.map": "/Picas-y-Fijas/static/js/main.4818b6a2.chunk.js.map",
+    "main.css": "/Picas-y-Fijas/static/css/main.0aa5dc1f.chunk.css",
+    "main.js": "/Picas-y-Fijas/static/js/main.e22683a2.chunk.js",
+    "main.js.map": "/Picas-y-Fijas/static/js/main.e22683a2.chunk.js.map",
     "runtime-main.js": "/Picas-y-Fijas/static/js/runtime-main.b3ccab18.js",
     "runtime-main.js.map": "/Picas-y-Fijas/static/js/runtime-main.b3ccab18.js.map",
-    "static/js/2.2d8cee93.chunk.js": "/Picas-y-Fijas/static/js/2.2d8cee93.chunk.js",
-    "static/js/2.2d8cee93.chunk.js.map": "/Picas-y-Fijas/static/js/2.2d8cee93.chunk.js.map",
+    "static/js/2.a996bcac.chunk.js": "/Picas-y-Fijas/static/js/2.a996bcac.chunk.js",
+    "static/js/2.a996bcac.chunk.js.map": "/Picas-y-Fijas/static/js/2.a996bcac.chunk.js.map",
     "static/js/3.b13d5a6f.chunk.js": "/Picas-y-Fijas/static/js/3.b13d5a6f.chunk.js",
     "static/js/3.b13d5a6f.chunk.js.map": "/Picas-y-Fijas/static/js/3.b13d5a6f.chunk.js.map",
     "index.html": "/Picas-y-Fijas/index.html",
-    "static/css/main.25b3de62.chunk.css.map": "/Picas-y-Fijas/static/css/main.25b3de62.chunk.css.map",
-    "static/js/2.2d8cee93.chunk.js.LICENSE.txt": "/Picas-y-Fijas/static/js/2.2d8cee93.chunk.js.LICENSE.txt"
+    "static/css/main.0aa5dc1f.chunk.css.map": "/Picas-y-Fijas/static/css/main.0aa5dc1f.chunk.css.map",
+    "static/js/2.a996bcac.chunk.js.LICENSE.txt": "/Picas-y-Fijas/static/js/2.a996bcac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b3ccab18.js",
-    "static/js/2.2d8cee93.chunk.js",
-    "static/css/main.25b3de62.chunk.css",
-    "static/js/main.4818b6a2.chunk.js"
+    "static/js/2.a996bcac.chunk.js",
+    "static/css/main.0aa5dc1f.chunk.css",
+    "static/js/main.e22683a2.chunk.js"
   ]
 }
